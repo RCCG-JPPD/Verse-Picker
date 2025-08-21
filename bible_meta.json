@@ -1,0 +1,1 @@
+{"embeddings_dim": 384, "encoder": "sentence-transformers/all-MiniLM-L6-v2", "verses_count": 679905}
