@@ -1,31 +1,31 @@
 {
-  "timestamp": "2025-08-21T09:12:02.663380+00:00",
-  "latest_transcript": "Mr. President, your idea is incredible, it's acceptable.",
+  "timestamp": "2025-08-21T10:46:37.271202+00:00",
+  "latest_transcript": "You ready to fire? Hold on just a minute.",
   "predictions": [
     {
-      "reference": "Philippians.4.17",
-      "score": 0.95,
-      "reason": "Ties generosity with reward, fitting the context's gift acceptance."
-    },
-    {
-      "reference": "2 Corinthians.9.15",
+      "reference": "Luke.3.13",
       "score": 0.9,
-      "reason": "Emphasizes gratitude for gifts, aligning with the sermon's opening."
+      "reason": "Emphasizes honesty in taxes, relevant to legal discussions."
     },
     {
-      "reference": "1 Samuel.25.27",
+      "reference": "Joshua.2.20",
       "score": 0.85,
-      "reason": "Directly mentions presenting a gift respectfully."
+      "reason": "Involves making agreements and secrecy, fitting business deals."
     },
     {
-      "reference": "Leviticus.19.24",
+      "reference": "Genesis.31.44",
       "score": 0.8,
-      "reason": "Focuses on dedicating offerings, relevant to the gift context."
+      "reason": "Symbolic agreement through stones, mirrors covenant discussions."
     },
     {
-      "reference": "Exodus.29.24",
+      "reference": "Numbers.21.22",
       "score": 0.75,
-      "reason": "Talks about dedicating gifts, fitting the theme of acceptance."
+      "reason": "Navigating legal territories without harm, relates to business strategies."
+    },
+    {
+      "reference": "Matthew.23.23",
+      "score": 0.7,
+      "reason": "Ethical dealings and justice, aligns with business ethics."
     }
   ]
 }
